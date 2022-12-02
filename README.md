@@ -11,7 +11,7 @@ This application presents the user with a series of prompts so that they can sel
 
 
 ## Screenshot of Deployed Application
-<img src=".\assets\03-javascript-homework-demo.png">
+<img src=".\Assets\03-javascript-homework-demo.png">
 
 ## Deployment Link
 https://baileyrachael25.github.io/random-password-generator/
